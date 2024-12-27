@@ -69,4 +69,4 @@ Após chamar este comando, você será solicitado a informar o nome do programa 
 ```
    make clean
 ```
-O comando abaixo remove todos os executáveis localizados na pasta `Executaveis/` e apaga esse diretório em que estavam armazenados.
+O comando acima remove todos os executáveis localizados na pasta `Executaveis/` e apaga esse diretório em que estavam armazenados.
