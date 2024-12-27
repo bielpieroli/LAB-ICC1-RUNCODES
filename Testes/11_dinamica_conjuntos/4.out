@@ -1,0 +1,4 @@
+conjunto A: -100 0 80 93 512 
+conjunto B: vazio
+A uniao B: -100 0 80 93 512 
+(A uniao B) - (A interseccao B): -100 0 80 93 512 

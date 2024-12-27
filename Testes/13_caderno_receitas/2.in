@@ -1,0 +1,16 @@
+R TortaDeMaca 300 4 75 100 0
+F 0
+R CookiesDeChocolate 250 3 125 200 100
+C 950 5 200 350 150
+F 1
+R BoloDeCenoura 350 4 100 150 50
+F 2
+R Brigadeiro 0 0 0 300 350
+F 3
+C 100 150 200 50 75
+R TortaDeLimao 200 3 50 75 0
+C 300 250 200 100 150
+F 4
+R MousseDeChocolate 0 2 30 10 350
+F 5 
+S

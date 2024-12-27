@@ -1,0 +1,4 @@
+conjunto A: vazio
+conjunto B: -777 1000 
+A uniao B: -777 1000 
+(A uniao B) - (A interseccao B): -777 1000 

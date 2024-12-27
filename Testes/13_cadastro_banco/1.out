@@ -1,0 +1,18 @@
+Dados da pessoa 1:
+Nome: Ana
+CPF: 98765432100
+Idade: 22
+Saldo: 200.00
+Credito: 150.00
+
+Dados da pessoa 2:
+Nome: Beatriz
+CPF: 11122233344
+Idade: 30
+Saldo: 0.00
+Credito: 100.00
+
+Pessoas endividadas:
+Nome: Beatriz
+CPF: 11122233344
+Divida: 100.00

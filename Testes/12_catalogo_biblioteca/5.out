@@ -1,0 +1,570 @@
+Catalogo de Livros:
+Livro 1:
+Titulo: Dom Quixote
+Autor: Miguel de Cervantes
+Ano: 1605
+Quantidade: 1
+
+Livro 2:
+Titulo: Orgulho e Preconceito
+Autor: Jane Austen
+Ano: 1813
+Quantidade: 1
+
+Livro 3:
+Titulo: Moby Dick
+Autor: Herman Melville
+Ano: 1851
+Quantidade: 1
+
+Livro 4:
+Titulo: Guerra e Paz
+Autor: Liev Tolstói
+Ano: 1869
+Quantidade: 1
+
+Livro 5:
+Titulo: Crime e Castigo
+Autor: Fiódor Dostoiévski
+Ano: 1866
+Quantidade: 1
+
+Livro 6:
+Titulo: Os Miseráveis
+Autor: Victor Hugo
+Ano: 1862
+Quantidade: 1
+
+Livro 7:
+Titulo: Madame Bovary
+Autor: Gustave Flaubert
+Ano: 1857
+Quantidade: 1
+
+Livro 8:
+Titulo: O Grande Gatsby
+Autor: F. Scott Fitzgerald
+Ano: 1925
+Quantidade: 1
+
+Livro 9:
+Titulo: Ulysses
+Autor: James Joyce
+Ano: 1922
+Quantidade: 1
+
+Livro 10:
+Titulo: Cem Anos de Solidão
+Autor: Gabriel García Márquez
+Ano: 1967
+Quantidade: 1
+
+Livro 11:
+Titulo: O Estrangeiro
+Autor: Albert Camus
+Ano: 1942
+Quantidade: 1
+
+Livro 12:
+Titulo: 1984
+Autor: George Orwell
+Ano: 1949
+Quantidade: 1
+
+Livro 13:
+Titulo: Admirável Mundo Novo
+Autor: Aldous Huxley
+Ano: 1932
+Quantidade: 2
+
+Livro 14:
+Titulo: A Metamorfose
+Autor: Franz Kafka
+Ano: 1915
+Quantidade: 1
+
+Livro 15:
+Titulo: O Apanhador no Campo de Centeio
+Autor: J.D. Salinger
+Ano: 1951
+Quantidade: 1
+
+Livro 16:
+Titulo: O Processo
+Autor: Franz Kafka
+Ano: 1925
+Quantidade: 1
+
+Livro 17:
+Titulo: Jane Eyre
+Autor: Charlotte Brontë
+Ano: 1847
+Quantidade: 1
+
+Livro 18:
+Titulo: O Morro dos Ventos Uivantes
+Autor: Emily Brontë
+Ano: 1847
+Quantidade: 1
+
+Livro 19:
+Titulo: As Aventuras de Huckleberry Finn
+Autor: Mark Twain
+Ano: 1884
+Quantidade: 1
+
+Livro 20:
+Titulo: O Senhor dos Anéis
+Autor: J.R.R. Tolkien
+Ano: 1954
+Quantidade: 1
+
+Livro 21:
+Titulo: A Revolução dos Bichos
+Autor: George Orwell
+Ano: 1945
+Quantidade: 1
+
+Livro 22:
+Titulo: A Divina Comédia
+Autor: Dante Alighieri
+Ano: 1320
+Quantidade: 1
+
+Livro 23:
+Titulo: Os Irmãos Karamázov
+Autor: Fiódor Dostoiévski
+Ano: 1880
+Quantidade: 1
+
+Livro 24:
+Titulo: Anna Kariênina
+Autor: Liev Tolstói
+Ano: 1877
+Quantidade: 1
+
+Livro 25:
+Titulo: Ulisses
+Autor: James Joyce
+Ano: 1922
+Quantidade: 1
+
+Livro 26:
+Titulo: O Sol é para Todos
+Autor: Harper Lee
+Ano: 1960
+Quantidade: 1
+
+Livro 27:
+Titulo: Drácula
+Autor: Bram Stoker
+Ano: 1897
+Quantidade: 1
+
+Livro 28:
+Titulo: Frankenstein
+Autor: Mary Shelley
+Ano: 1818
+Quantidade: 1
+
+Livro 29:
+Titulo: O Velho e o Mar
+Autor: Ernest Hemingway
+Ano: 1952
+Quantidade: 1
+
+Livro 30:
+Titulo: Lolita
+Autor: Vladimir Nabokov
+Ano: 1955
+Quantidade: 1
+
+Livro 31:
+Titulo: Hamlet
+Autor: William Shakespeare
+Ano: 1603
+Quantidade: 1
+
+Livro 32:
+Titulo: Macbeth
+Autor: William Shakespeare
+Ano: 1606
+Quantidade: 1
+
+Livro 33:
+Titulo: Otelo
+Autor: William Shakespeare
+Ano: 1604
+Quantidade: 1
+
+Livro 34:
+Titulo: Rei Lear
+Autor: William Shakespeare
+Ano: 1605
+Quantidade: 1
+
+Livro 35:
+Titulo: Romeu e Julieta
+Autor: William Shakespeare
+Ano: 1597
+Quantidade: 1
+
+Livro 36:
+Titulo: As Aventuras de Tom Sawyer
+Autor: Mark Twain
+Ano: 1876
+Quantidade: 1
+
+Livro 37:
+Titulo: Robinson Crusoé
+Autor: Daniel Defoe
+Ano: 1719
+Quantidade: 1
+
+Livro 38:
+Titulo: A Náusea
+Autor: Jean-Paul Sartre
+Ano: 1938
+Quantidade: 1
+
+Livro 39:
+Titulo: Em Busca do Tempo Perdido
+Autor: Marcel Proust
+Ano: 1913
+Quantidade: 1
+
+Livro 40:
+Titulo: O Primo Basílio
+Autor: Eça de Queirós
+Ano: 1878
+Quantidade: 1
+
+Livro 41:
+Titulo: Memórias Póstumas de Brás Cubas
+Autor: Machado de Assis
+Ano: 1881
+Quantidade: 1
+
+Livro 42:
+Titulo: Grande Sertão: Veredas
+Autor: João Guimarães Rosa
+Ano: 1956
+Quantidade: 1
+
+Livro 43:
+Titulo: O Vermelho e o Negro
+Autor: Stendhal
+Ano: 1830
+Quantidade: 1
+
+Livro 44:
+Titulo: Os Maias
+Autor: Eça de Queirós
+Ano: 1888
+Quantidade: 1
+
+Livro 45:
+Titulo: A Montanha Mágica
+Autor: Thomas Mann
+Ano: 1924
+Quantidade: 1
+
+Livro 46:
+Titulo: O Som e a Fúria
+Autor: William Faulkner
+Ano: 1929
+Quantidade: 1
+
+Livro 47:
+Titulo: O Nome da Rosa
+Autor: Umberto Eco
+Ano: 1980
+Quantidade: 1
+
+Livro 48:
+Titulo: Os Três Mosqueteiros
+Autor: Alexandre Dumas
+Ano: 1844
+Quantidade: 1
+
+Livro 49:
+Titulo: A Letra Escarlate
+Autor: Nathaniel Hawthorne
+Ano: 1850
+Quantidade: 1
+
+Livro 50:
+Titulo: O Médico e o Monstro
+Autor: Robert Louis Stevenson
+Ano: 1886
+Quantidade: 1
+
+Livro 51:
+Titulo: O Corcunda de Notre-Dame
+Autor: Victor Hugo
+Ano: 1831
+Quantidade: 1
+
+Livro 52:
+Titulo: As Vinhas da Ira
+Autor: John Steinbeck
+Ano: 1939
+Quantidade: 1
+
+Livro 53:
+Titulo: A Moreninha
+Autor: Joaquim Manuel de Macedo
+Ano: 1844
+Quantidade: 1
+
+Livro 54:
+Titulo: A Máquina do Tempo
+Autor: H.G. Wells
+Ano: 1895
+Quantidade: 1
+
+Livro 55:
+Titulo: Vinte Mil Léguas Submarinas
+Autor: Jules Verne
+Ano: 1870
+Quantidade: 1
+
+Livro 56:
+Titulo: O Conde de Monte Cristo
+Autor: Alexandre Dumas
+Ano: 1844
+Quantidade: 1
+
+Livro 57:
+Titulo: O Fim da Infância
+Autor: Arthur C. Clarke
+Ano: 1953
+Quantidade: 2
+
+Livro 58:
+Titulo: Deuses Americanos
+Autor: Neil Gaiman
+Ano: 2001
+Quantidade: 2
+
+Livro 59:
+Titulo: As Aventuras de Alice no País das Maravilhas
+Autor: Lewis Carroll
+Ano: 1865
+Quantidade: 1
+
+Livro 60:
+Titulo: O Retrato de Dorian Gray
+Autor: Oscar Wilde
+Ano: 1890
+Quantidade: 1
+
+Livro 61:
+Titulo: O Fantasma da Ópera
+Autor: Gaston Leroux
+Ano: 1910
+Quantidade: 1
+
+Livro 62:
+Titulo: O Senhor das Moscas
+Autor: William Golding
+Ano: 1954
+Quantidade: 1
+
+Livro 63:
+Titulo: Mataram a Cotovia
+Autor: Harper Lee
+Ano: 1960
+Quantidade: 1
+
+Livro 64:
+Titulo: A Insustentável Leveza do Ser
+Autor: Milan Kundera
+Ano: 1984
+Quantidade: 1
+
+Livro 65:
+Titulo: Cem Dias Entre Céu e Mar
+Autor: Amyr Klink
+Ano: 1985
+Quantidade: 1
+
+Livro 66:
+Titulo: O Caçador de Pipas
+Autor: Khaled Hosseini
+Ano: 2003
+Quantidade: 1
+
+Livro 67:
+Titulo: A Menina que Roubava Livros
+Autor: Markus Zusak
+Ano: 2005
+Quantidade: 1
+
+Livro 68:
+Titulo: A Cabana
+Autor: William P. Young
+Ano: 2007
+Quantidade: 1
+
+Livro 69:
+Titulo: O Código Da Vinci
+Autor: Dan Brown
+Ano: 2003
+Quantidade: 1
+
+Livro 70:
+Titulo: Harry Potter e a Pedra Filosofal
+Autor: J.K. Rowling
+Ano: 1997
+Quantidade: 1
+
+Livro 71:
+Titulo: Jogos Vorazes
+Autor: Suzanne Collins
+Ano: 2008
+Quantidade: 1
+
+Livro 72:
+Titulo: A Culpa é das Estrelas
+Autor: John Green
+Ano: 2012
+Quantidade: 1
+
+Livro 73:
+Titulo: O Pequeno Príncipe
+Autor: Antoine de Saint-Exupéry
+Ano: 1943
+Quantidade: 1
+
+Livro 74:
+Titulo: 2001: Uma Odisseia no Espaço
+Autor: Arthur C. Clarke
+Ano: 1968
+Quantidade: 1
+
+Livro 75:
+Titulo: Neuromancer
+Autor: William Gibson
+Ano: 1984
+Quantidade: 2
+
+Livro 76:
+Titulo: Fahrenheit 451
+Autor: Ray Bradbury
+Ano: 1953
+Quantidade: 2
+
+Livro 77:
+Titulo: O Hobbit
+Autor: J.R.R. Tolkien
+Ano: 1937
+Quantidade: 1
+
+Livro 78:
+Titulo: O Guia do Mochileiro das Galáxias
+Autor: Douglas Adams
+Ano: 1979
+Quantidade: 1
+
+Livro 79:
+Titulo: A Trilogia da Fundação
+Autor: Isaac Asimov
+Ano: 1951
+Quantidade: 1
+
+Livro 80:
+Titulo: Laranja Mecânica
+Autor: Anthony Burgess
+Ano: 1962
+Quantidade: 1
+
+Livro 81:
+Titulo: O Homem do Castelo Alto
+Autor: Philip K. Dick
+Ano: 1962
+Quantidade: 1
+
+Livro 82:
+Titulo: Duna
+Autor: Frank Herbert
+Ano: 1965
+Quantidade: 1
+
+Livro 83:
+Titulo: O Jogo do Exterminador
+Autor: Orson Scott Card
+Ano: 1985
+Quantidade: 1
+
+Livro 84:
+Titulo: A Mão Esquerda da Escuridão
+Autor: Ursula K. Le Guin
+Ano: 1969
+Quantidade: 1
+
+Livro 85:
+Titulo: Contato
+Autor: Carl Sagan
+Ano: 1985
+Quantidade: 1
+
+Livro 86:
+Titulo: O Conto da Aia
+Autor: Margaret Atwood
+Ano: 1985
+Quantidade: 1
+
+Livro 87:
+Titulo: A Vida Secreta das Abelhas
+Autor: Sue Monk Kidd
+Ano: 2001
+Quantidade: 1
+
+Livro 88:
+Titulo: A Garota no Trem
+Autor: Paula Hawkins
+Ano: 2015
+Quantidade: 1
+
+Livro 89:
+Titulo: Pequenas Grandes Mentiras
+Autor: Liane Moriarty
+Ano: 2014
+Quantidade: 1
+
+Livro 90:
+Titulo: O Menino do Pijama Listrado
+Autor: John Boyne
+Ano: 2006
+Quantidade: 1
+
+Livro 91:
+Titulo: A Cidade e as Estrelas
+Autor: Arthur C. Clarke
+Ano: 1956
+Quantidade: 1
+
+Livro 92:
+Titulo: Eu Robô
+Autor: Isaac Asimov
+Ano: 1950
+Quantidade: 1
+
+Livro 93:
+Titulo: O Cemitério
+Autor: Stephen King
+Ano: 1983
+Quantidade: 1
+
+Livro 94:
+Titulo: It: A Coisa
+Autor: Stephen King
+Ano: 1986
+Quantidade: 1
+
+Livro 95:
+Titulo: Os Pilares da Terra
+Autor: Ken Follett
+Ano: 1989
+Quantidade: 1

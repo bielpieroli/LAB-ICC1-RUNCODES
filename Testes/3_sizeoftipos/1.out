@@ -1,0 +1,11 @@
+Tam char: 1
+Tam int: 4
+Tam float: 4
+Tam double: 8
+Tam unsigned char: 1
+Tam signed char: 1
+Tam unsigned int: 4
+Tam signed int: 4
+Tam short int: 2
+Tam long int: 8
+Tam long long int: 8

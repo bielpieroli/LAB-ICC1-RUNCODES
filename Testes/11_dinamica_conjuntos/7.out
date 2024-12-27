@@ -1,0 +1,4 @@
+conjunto A: 10 20 30 40 50 
+conjunto B: 10 20 30 40 50 
+A uniao B: 10 20 30 40 50 
+(A uniao B) - (A interseccao B): vazio

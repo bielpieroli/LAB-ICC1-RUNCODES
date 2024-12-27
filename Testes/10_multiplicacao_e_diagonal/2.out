@@ -1,0 +1,13 @@
+Matrizes:
+9 8 7 
+6 5 4 
+3 2 1 
+1 0 0 
+0 2 0 
+0 0 3 
+A matriz 1 nao eh diagonal
+A matriz 2 eh diagonal
+Matriz multiplicada:
+9 16 21 
+6 10 12 
+3 4 3 

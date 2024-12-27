@@ -1,0 +1,611 @@
+Dados da pessoa 1:
+Nome: Ana
+CPF: 12345678901
+Idade: 20
+Saldo: 1.00
+Credito: 50.00
+
+Dados da pessoa 2:
+Nome: Jose
+CPF: 98765432101
+Idade: 25
+Saldo: 2.50
+Credito: 75.00
+
+Dados da pessoa 3:
+Nome: Maria
+CPF: 11122233344
+Idade: 30
+Saldo: 3.00
+Credito: 100.00
+
+Dados da pessoa 4:
+Nome: Carlos
+CPF: 55566677788
+Idade: 35
+Saldo: 0.50
+Credito: 25.00
+
+Dados da pessoa 5:
+Nome: Amanda
+CPF: 01234567890
+Idade: 18
+Saldo: 1.50
+Credito: 60.00
+
+Dados da pessoa 6:
+Nome: Lucas
+CPF: 98712345678
+Idade: 22
+Saldo: 2.00
+Credito: 80.00
+
+Dados da pessoa 7:
+Nome: Camila
+CPF: 98765412300
+Idade: 27
+Saldo: 0.75
+Credito: 45.00
+
+Dados da pessoa 8:
+Nome: Thiago
+CPF: 98700123456
+Idade: 29
+Saldo: 2.25
+Credito: 90.00
+
+Dados da pessoa 9:
+Nome: Juliana
+CPF: 55522277711
+Idade: 24
+Saldo: 1.25
+Credito: 70.00
+
+Dados da pessoa 10:
+Nome: Leonardo
+CPF: 33344455566
+Idade: 32
+Saldo: 3.50
+Credito: 120.00
+
+Dados da pessoa 11:
+Nome: Vanessa
+CPF: 66677788899
+Idade: 21
+Saldo: 0.25
+Credito: 30.00
+
+Dados da pessoa 12:
+Nome: Rafael
+CPF: 12312312312
+Idade: 31
+Saldo: 2.75
+Credito: 110.00
+
+Dados da pessoa 13:
+Nome: Leticia
+CPF: 22233344455
+Idade: 19
+Saldo: 1.75
+Credito: 65.00
+
+Dados da pessoa 14:
+Nome: Paulo
+CPF: 44455566677
+Idade: 26
+Saldo: 1.10
+Credito: 55.00
+
+Dados da pessoa 15:
+Nome: Larissa
+CPF: 99988877766
+Idade: 33
+Saldo: 2.20
+Credito: 85.00
+
+Dados da pessoa 16:
+Nome: Gabriel
+CPF: 00011122233
+Idade: 23
+Saldo: 0.90
+Credito: 40.00
+
+Dados da pessoa 17:
+Nome: Mariana
+CPF: 98765432109
+Idade: 27
+Saldo: 0.25
+Credito: 200.00
+
+Dados da pessoa 18:
+Nome: Daniel
+CPF: 13579246801
+Idade: 28
+Saldo: 3.75
+Credito: 75.50
+
+Dados da pessoa 19:
+Nome: Julia
+CPF: 24680135792
+Idade: 23
+Saldo: 2.25
+Credito: 180.00
+
+Dados da pessoa 20:
+Nome: Marcos
+CPF: 36925814703
+Idade: 35
+Saldo: 1.75
+Credito: 90.25
+
+Dados da pessoa 21:
+Nome: Carolina
+CPF: 98765432109
+Idade: 27
+Saldo: 0.25
+Credito: 200.00
+
+Dados da pessoa 22:
+Nome: Bruno
+CPF: 45960842051
+Idade: 19
+Saldo: 1.00
+Credito: 113.00
+
+Dados da pessoa 23:
+Nome: Carlos
+CPF: 12345678911
+Idade: 20
+Saldo: 1.50
+Credito: 2.50
+
+Dados da pessoa 24:
+Nome: Ana
+CPF: 98765432100
+Idade: 22
+Saldo: 200.00
+Credito: 150.00
+
+Dados da pessoa 25:
+Nome: Beatriz
+CPF: 11122233344
+Idade: 30
+Saldo: 0.00
+Credito: 100.00
+
+Dados da pessoa 26:
+Nome: Joao
+CPF: 55566677788
+Idade: 25
+Saldo: 500.00
+Credito: 500.00
+
+Dados da pessoa 27:
+Nome: Maria
+CPF: 01234567890
+Idade: 18
+Saldo: 0.50
+Credito: 50.00
+
+Dados da pessoa 28:
+Nome: Pedro
+CPF: 13579246801
+Idade: 28
+Saldo: 3.75
+Credito: 75.50
+
+Dados da pessoa 29:
+Nome: Juliana
+CPF: 24680135792
+Idade: 23
+Saldo: 2.25
+Credito: 180.00
+
+Dados da pessoa 30:
+Nome: Lucas
+CPF: 36925814703
+Idade: 35
+Saldo: 1.75
+Credito: 90.25
+
+Dados da pessoa 31:
+Nome: Mariana
+CPF: 98765432109
+Idade: 27
+Saldo: 0.25
+Credito: 200.00
+
+Dados da pessoa 32:
+Nome: Ana
+CPF: 12345678901
+Idade: 20
+Saldo: 1.00
+Credito: 50.00
+
+Dados da pessoa 33:
+Nome: Jose
+CPF: 98765432101
+Idade: 25
+Saldo: 2.50
+Credito: 75.00
+
+Dados da pessoa 34:
+Nome: Maria
+CPF: 11122233344
+Idade: 30
+Saldo: 3.00
+Credito: 100.00
+
+Dados da pessoa 35:
+Nome: Carlos
+CPF: 55566677788
+Idade: 35
+Saldo: 0.50
+Credito: 25.00
+
+Dados da pessoa 36:
+Nome: Amanda
+CPF: 01234567890
+Idade: 18
+Saldo: 1.50
+Credito: 60.00
+
+Dados da pessoa 37:
+Nome: Lucas
+CPF: 98712345678
+Idade: 22
+Saldo: 2.00
+Credito: 80.00
+
+Dados da pessoa 38:
+Nome: Camila
+CPF: 98765412300
+Idade: 27
+Saldo: 0.75
+Credito: 45.00
+
+Dados da pessoa 39:
+Nome: Thiago
+CPF: 98700123456
+Idade: 29
+Saldo: 2.25
+Credito: 90.00
+
+Dados da pessoa 40:
+Nome: Juliana
+CPF: 55522277711
+Idade: 24
+Saldo: 1.25
+Credito: 70.00
+
+Dados da pessoa 41:
+Nome: Leonardo
+CPF: 33344455566
+Idade: 32
+Saldo: 3.50
+Credito: 120.00
+
+Dados da pessoa 42:
+Nome: Vanessa
+CPF: 66677788899
+Idade: 21
+Saldo: 0.25
+Credito: 30.00
+
+Dados da pessoa 43:
+Nome: Rafael
+CPF: 12312312312
+Idade: 31
+Saldo: 2.75
+Credito: 110.00
+
+Dados da pessoa 44:
+Nome: Leticia
+CPF: 22233344455
+Idade: 19
+Saldo: 1.75
+Credito: 65.00
+
+Dados da pessoa 45:
+Nome: Paulo
+CPF: 44455566677
+Idade: 26
+Saldo: 1.10
+Credito: 55.00
+
+Dados da pessoa 46:
+Nome: Larissa
+CPF: 99988877766
+Idade: 33
+Saldo: 2.20
+Credito: 85.00
+
+Dados da pessoa 47:
+Nome: Gabriel
+CPF: 00011122233
+Idade: 23
+Saldo: 0.90
+Credito: 40.00
+
+Dados da pessoa 48:
+Nome: Mariana
+CPF: 98765432109
+Idade: 27
+Saldo: 0.25
+Credito: 200.00
+
+Dados da pessoa 49:
+Nome: Daniel
+CPF: 13579246801
+Idade: 28
+Saldo: 3.75
+Credito: 75.50
+
+Dados da pessoa 50:
+Nome: Julia
+CPF: 24680135792
+Idade: 23
+Saldo: 2.25
+Credito: 180.00
+
+Dados da pessoa 51:
+Nome: Marcos
+CPF: 36925814703
+Idade: 35
+Saldo: 1.75
+Credito: 90.25
+
+Dados da pessoa 52:
+Nome: Carolina
+CPF: 98765432109
+Idade: 27
+Saldo: 0.25
+Credito: 200.00
+
+Dados da pessoa 53:
+Nome: Bruno
+CPF: 45960842051
+Idade: 19
+Saldo: 1.00
+Credito: 113.00
+
+Dados da pessoa 54:
+Nome: Carlos
+CPF: 12345678911
+Idade: 20
+Saldo: 1.50
+Credito: 2.50
+
+Dados da pessoa 55:
+Nome: Ana
+CPF: 98765432100
+Idade: 22
+Saldo: 200.00
+Credito: 150.00
+
+Dados da pessoa 56:
+Nome: Beatriz
+CPF: 11122233344
+Idade: 30
+Saldo: 0.00
+Credito: 100.00
+
+Dados da pessoa 57:
+Nome: Joao
+CPF: 55566677788
+Idade: 25
+Saldo: 500.00
+Credito: 500.00
+
+Pessoas endividadas:
+Nome: Ana
+CPF: 12345678901
+Divida: 49.00
+
+Nome: Jose
+CPF: 98765432101
+Divida: 72.50
+
+Nome: Maria
+CPF: 11122233344
+Divida: 97.00
+
+Nome: Carlos
+CPF: 55566677788
+Divida: 24.50
+
+Nome: Amanda
+CPF: 01234567890
+Divida: 58.50
+
+Nome: Lucas
+CPF: 98712345678
+Divida: 78.00
+
+Nome: Camila
+CPF: 98765412300
+Divida: 44.25
+
+Nome: Thiago
+CPF: 98700123456
+Divida: 87.75
+
+Nome: Juliana
+CPF: 55522277711
+Divida: 68.75
+
+Nome: Leonardo
+CPF: 33344455566
+Divida: 116.50
+
+Nome: Vanessa
+CPF: 66677788899
+Divida: 29.75
+
+Nome: Rafael
+CPF: 12312312312
+Divida: 107.25
+
+Nome: Leticia
+CPF: 22233344455
+Divida: 63.25
+
+Nome: Paulo
+CPF: 44455566677
+Divida: 53.90
+
+Nome: Larissa
+CPF: 99988877766
+Divida: 82.80
+
+Nome: Gabriel
+CPF: 00011122233
+Divida: 39.10
+
+Nome: Mariana
+CPF: 98765432109
+Divida: 199.75
+
+Nome: Daniel
+CPF: 13579246801
+Divida: 71.75
+
+Nome: Julia
+CPF: 24680135792
+Divida: 177.75
+
+Nome: Marcos
+CPF: 36925814703
+Divida: 88.50
+
+Nome: Carolina
+CPF: 98765432109
+Divida: 199.75
+
+Nome: Bruno
+CPF: 45960842051
+Divida: 112.00
+
+Nome: Carlos
+CPF: 12345678911
+Divida: 1.00
+
+Nome: Beatriz
+CPF: 11122233344
+Divida: 100.00
+
+Nome: Maria
+CPF: 01234567890
+Divida: 49.50
+
+Nome: Pedro
+CPF: 13579246801
+Divida: 71.75
+
+Nome: Juliana
+CPF: 24680135792
+Divida: 177.75
+
+Nome: Lucas
+CPF: 36925814703
+Divida: 88.50
+
+Nome: Mariana
+CPF: 98765432109
+Divida: 199.75
+
+Nome: Ana
+CPF: 12345678901
+Divida: 49.00
+
+Nome: Jose
+CPF: 98765432101
+Divida: 72.50
+
+Nome: Maria
+CPF: 11122233344
+Divida: 97.00
+
+Nome: Carlos
+CPF: 55566677788
+Divida: 24.50
+
+Nome: Amanda
+CPF: 01234567890
+Divida: 58.50
+
+Nome: Lucas
+CPF: 98712345678
+Divida: 78.00
+
+Nome: Camila
+CPF: 98765412300
+Divida: 44.25
+
+Nome: Thiago
+CPF: 98700123456
+Divida: 87.75
+
+Nome: Juliana
+CPF: 55522277711
+Divida: 68.75
+
+Nome: Leonardo
+CPF: 33344455566
+Divida: 116.50
+
+Nome: Vanessa
+CPF: 66677788899
+Divida: 29.75
+
+Nome: Rafael
+CPF: 12312312312
+Divida: 107.25
+
+Nome: Leticia
+CPF: 22233344455
+Divida: 63.25
+
+Nome: Paulo
+CPF: 44455566677
+Divida: 53.90
+
+Nome: Larissa
+CPF: 99988877766
+Divida: 82.80
+
+Nome: Gabriel
+CPF: 00011122233
+Divida: 39.10
+
+Nome: Mariana
+CPF: 98765432109
+Divida: 199.75
+
+Nome: Daniel
+CPF: 13579246801
+Divida: 71.75
+
+Nome: Julia
+CPF: 24680135792
+Divida: 177.75
+
+Nome: Marcos
+CPF: 36925814703
+Divida: 88.50
+
+Nome: Carolina
+CPF: 98765432109
+Divida: 199.75
+
+Nome: Bruno
+CPF: 45960842051
+Divida: 112.00
+
+Nome: Carlos
+CPF: 12345678911
+Divida: 1.00
+
+Nome: Beatriz
+CPF: 11122233344
+Divida: 100.00

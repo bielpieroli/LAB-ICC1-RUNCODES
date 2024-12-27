@@ -1,0 +1,6 @@
+Valor inicial da variavel: 10
+Valor do ponteiro antes do incremento: 10
+Valor do ponteiro depois do incremento: 20
+Valor do ponteiro para ponteiro antes do incremento: 20
+Valor do ponteiro para ponteiro depois da mudanca: 30
+Valor final da variavel: 30

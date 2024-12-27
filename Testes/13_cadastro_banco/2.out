@@ -1,0 +1,55 @@
+Dados da pessoa 1:
+Nome: Ana
+CPF: 12345678901
+Idade: 20
+Saldo: 1.00
+Credito: 50.00
+
+Dados da pessoa 2:
+Nome: Jose
+CPF: 98765432101
+Idade: 25
+Saldo: 2.50
+Credito: 75.00
+
+Dados da pessoa 3:
+Nome: Maria
+CPF: 11122233344
+Idade: 30
+Saldo: 3.00
+Credito: 100.00
+
+Dados da pessoa 4:
+Nome: Carlos
+CPF: 55566677788
+Idade: 35
+Saldo: 0.50
+Credito: 25.00
+
+Dados da pessoa 5:
+Nome: Amanda
+CPF: 01234567890
+Idade: 18
+Saldo: 1.50
+Credito: 60.00
+
+Pessoas endividadas:
+Nome: Ana
+CPF: 12345678901
+Divida: 49.00
+
+Nome: Jose
+CPF: 98765432101
+Divida: 72.50
+
+Nome: Maria
+CPF: 11122233344
+Divida: 97.00
+
+Nome: Carlos
+CPF: 55566677788
+Divida: 24.50
+
+Nome: Amanda
+CPF: 01234567890
+Divida: 58.50
