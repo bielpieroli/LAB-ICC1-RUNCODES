@@ -27,7 +27,7 @@ run: all
 	fi
 
 # Regra para testar um arquivo específico com casos de teste
-test: all
+testes: all
 	@echo "Digite o nome do programa para testar (sem extensão):"
 	@read exec_name; \
 	test_dir="Testes/$$exec_name"; \
