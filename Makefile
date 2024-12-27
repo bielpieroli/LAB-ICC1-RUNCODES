@@ -40,3 +40,20 @@ testes: all
 # Limpar os executáveis gerados
 clean:
 	rm -rf $(EXEC_DIR)
+
+# # Criação das pastas de teste, uma para cada programa
+# dirs: $(TEST_DIR)
+# 	@for src in $(SRC); do \
+# 		dirname=$$(basename $$src .c); \
+# 		mkdir -p $(TEST_DIR)/$$dirname; \
+# 	done
+# 	@echo "Pastas de testes criadas em '$(TEST_DIR)'.
+
+# # Regra para descompactar os arquivos .zip dentro de cada diretório de testes
+# deszipar:
+# 	@for dir in $(TEST_DIR)/*; do \
+# 		if [ -d $$dir ]; then \
+# 			@echo "Descompactando arquivos em $$dir"; \
+# 			unzip -o $$dir/*.zip -d $$dir/; \
+# 		fi \
+# 	done
