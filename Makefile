@@ -4,11 +4,13 @@ LDFLAGS = -lm
 CODIGOS_DIR = Codigos
 EXEC_DIR = Executaveis
 
+TEST_DIR = Testes
+
 SRC = $(wildcard $(CODIGOS_DIR)/*.c)
 EXEC = $(patsubst $(CODIGOS_DIR)/%.c,$(EXEC_DIR)/%,$(SRC))
 
 # Regra principal para compilar todos os arquivos
-all: $(EXEC_DIR) $(EXEC)
+all: clean $(EXEC_DIR) $(EXEC)
 
 $(EXEC_DIR):
 	@mkdir -p $(EXEC_DIR)
@@ -41,13 +43,17 @@ testes: all
 clean:
 	rm -rf $(EXEC_DIR)
 
-# # Criação das pastas de teste, uma para cada programa
-# dirs: $(TEST_DIR)
-# 	@for src in $(SRC); do \
-# 		dirname=$$(basename $$src .c); \
-# 		mkdir -p $(TEST_DIR)/$$dirname; \
-# 	done
-# 	@echo "Pastas de testes criadas em '$(TEST_DIR)'.
+# Regra para criar diretórios automaticamente, a partir dos nomes
+dirs: $(TEST_DIR)
+	@for src in $(SRC); do \
+    	dirname=$$(basename $$src .c); \
+    	mkdir -p $(TEST_DIR)/$$dirname; \
+	done
+	@echo "Pastas de testes criadas em '$(TEST_DIR)'."
+
+$(TEST_DIR):
+	@mkdir -p $(TEST_DIR)
+
 
 # # Regra para descompactar os arquivos .zip dentro de cada diretório de testes
 # deszipar:
